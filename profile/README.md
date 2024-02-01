@@ -3,6 +3,17 @@
 
 Aomidori is an experimental cloud-first web-framework for large-scale applications.
 
+Some unique challenges of large-scale applications is that many different developers and teams may be contributing
+to UI components.
+
+Aomidori allows teams to
+- Bring their own technologies
+- Choose their own rendering-strategires (CSR, SSR)
+- Work independantly on UIs (mono-repo, polyrepo)
+
+# Why Aomidori
+Aomidori allows for teams to choose beteen micro-frontends, front-end/backend or monoliths. 
+
 <!--
 
 **Here are some ideas to get you started:**
